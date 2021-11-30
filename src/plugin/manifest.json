@@ -1,0 +1,20 @@
+{
+    "typeName": "chat-plugin",
+    "pluginId": "",
+    "category": "",
+    "description": {
+        "title": "Chat",
+        "overview": "This is a simple chat plugin"
+    },
+    "info": {
+        "version": "0.1",
+        "updated": "",
+        "size": "",
+        "developer": "PlantApps"
+    },
+    "customIcon": "/custom/default/chat-plugin/text-icon-20.jpg",
+    "origin": "custom",
+    "placeholder": "/custom/default/chat-plugin/chat-plugin.png",
+    "preview": "/custom/default/chat-plugin/chat-plugin.png",
+    "serviceURL": "http://ironman-dev.htclab.ge.com:3002/"
+}
